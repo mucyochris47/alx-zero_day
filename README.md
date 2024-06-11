@@ -1,1 +1,2 @@
-This is the firt directory for git in the zero alx project
+My firt readme
+This line was updated from git hub
