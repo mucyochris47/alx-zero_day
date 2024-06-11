@@ -1,2 +1,2 @@
 My firt readme
-This line was updated from git hub
+this line was updated from git hub
