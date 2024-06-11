@@ -1,1 +1,1 @@
-This is my first directory for the git in the alx project
+My first readme
